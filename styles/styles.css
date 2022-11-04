@@ -1,0 +1,120 @@
+body {
+    font-family: 'Inter', sans-serif;
+    padding: 5% 10%;
+    background-color: hsl(36, 100%, 99%);
+}
+
+/* ------------------------------------------------------------------- */
+
+/* Changing the padding of navitems */
+.nav-item {
+    padding: 0px 10px;
+    margin-left: auto;
+}
+
+/* ------------------------------------------------------------------- */
+
+/* Catalogue */
+
+#catalogue h1 {
+    font-weight: 800;
+    font-size: 3rem;
+
+}
+
+/* Left Catalogue */
+.left_Catalogue h1 {
+    color: hsl(240, 100%, 5%);
+}
+
+.left_Catalogue p {
+    color: hsl(236, 13%, 42%);
+}
+
+.left_Catalogue {
+    padding-right: 3%;
+    margin-top: 5%;
+}
+
+.left_CatalogueButton {
+    border-radius: 0;
+    margin-top: 3%;
+    padding: 5% 15%;
+    letter-spacing: 5px;
+}
+
+.boxesImage {
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+/* ------------------------------------------------------------------- */
+
+/* News Alert */
+.newsAlert {
+    margin-top: 5%;
+    background-color: hsl(240, 100%, 5%);
+}
+
+.newsAlert h3 {
+    color: hsl(35, 77%, 62%);
+    padding: 3%;
+    font-weight: 800;
+}
+
+.newsAlert h4 {
+    color: hsl(36, 100%, 99%);
+    padding: 1% 3%;
+    font-weight: 700;
+}
+
+.newsAlert p {
+    color: hsl(233, 8%, 79%);
+    padding: 0 3%;
+}
+
+.newsAlert hr {
+    margin: 2% 3%;
+    width: 90%;
+    color: hsl(36, 100%, 99%);
+}
+
+/* ------------------------------------------------------------------- */
+
+/* Features */
+
+#Features {
+    margin-top: 5%;
+}
+
+#Features .col-lg-4 {
+    padding: 1%;
+}
+
+#Features h1 {
+    color: hsl(233, 8%, 79%);
+    font-weight: 700;
+}
+
+#Features h2 {
+    color: hsl(240, 100%, 5%);
+    font-weight: 800;
+}
+
+#Features p {
+    color: hsl(236, 13%, 42%);
+}
+
+.features_Img {
+    width: 100%;
+}
+
+/* ------------------------------------------------------------------- */
+#Copyright {
+    text-align: center;
+}
+
+#Copyright p {
+    margin: 0;
+    font-weight: 700;
+}
